@@ -1,0 +1,18 @@
+.highlight {
+    background: #fafa1a;
+    background: -webkit-linear-gradient(to right, #fff, #fafa1a);
+    background: -o-linear-gradient(to right, #fff, #fafa1a);
+    background: -moz-linear-gradient(to right, #fff, #fafa1a);
+    background: linear-gradient(to right, #fff, #fafa1a);
+    cursor: pointer;
+}
+
+
+.highlightRed {
+    background: #fafa1a;
+    background: -webkit-linear-gradient(to right, #fff, pink);
+    background: -o-linear-gradient(to right, #fff, pink);
+    background: -moz-linear-gradient(to right, #fff, pink);
+    background: linear-gradient(to right, #fff, pink);
+    cursor: pointer;
+}
